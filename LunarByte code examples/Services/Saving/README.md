@@ -27,7 +27,7 @@ public interface IIdentifiable
 }
 ```
 
-Cloud loading happens automatically at the start of running the program by calling the method> 
+Cloud loading happens automatically at the start of running the program by calling the method: 
 ```
 PlatformInitialization();
 ```
