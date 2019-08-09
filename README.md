@@ -1,5 +1,5 @@
 # LunarByte-Showcase
-A showcase of games and code I did when I was working at LunarByte.
+A showcase of games and code I did when I was working at LunarByte. The code files require other files to work so they are only here for showcasing purposes. You can find code from a save service that handles all local/cloud saving and loading on Android and on iOS. A social service which handles achievements and leaderboards on Android/iOS. You can also find a code example of using MVVM (Model–view–viewmodel). The code is from a popup that is shown when the player finishes a level in Block Way. 
 
 ## Block Way
 A hyper casual mobile (Android/iOS) game in which you control a saw blade and try to cut down as many blocks as you can while dodging rocks.
